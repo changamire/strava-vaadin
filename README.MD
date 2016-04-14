@@ -1,5 +1,10 @@
 Strava-Vaadin
 =============
+A simple web application written in [Vaadin](http://www.vaadin.com) that pulls
+your activities from [Strava](http://www.strava.com) and allows you to
+
+* Plot multiple activities together on a map
+* Export mutiple activities to GeoJSON
 
 Pre-requisites
 ==============
