@@ -1,3 +1,5 @@
+https://api.travis-ci.org/changamire/strava-vaadin.svg?branch=master
+
 Strava-Vaadin
 =============
 A simple web application written in [Vaadin](http://www.vaadin.com) that pulls
