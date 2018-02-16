@@ -1,4 +1,4 @@
-https://api.travis-ci.org/changamire/strava-vaadin.svg?branch=master
+<img src="https://api.travis-ci.org/changamire/strava-vaadin.svg?branch=master"/>
 
 Strava-Vaadin
 =============
